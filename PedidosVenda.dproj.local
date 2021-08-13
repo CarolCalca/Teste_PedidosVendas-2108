@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/08/13 11:30:02.265,=C:\Users\carol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 11:32:06.937,D:\Projetos\Pedidos de Venda\fPedidosVenda.pas=C:\Users\carol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 11:32:06.937,D:\Projetos\Pedidos de Venda\fPedidosVenda.dfm=C:\Users\carol\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/13 12:07:08.382,D:\Projetos\Pedidos de Venda\PedidosVenda.dproj=C:\Users\carol\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/13 12:08:36.434,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 12:09:54.414,D:\Projetos\Pedidos de Venda\uDB.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 12:11:24.013,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 12:11:41.150,D:\Projetos\Pedidos de Venda\uDB.pas=</Transaction>
+    <Transaction>2021/08/13 12:13:21.001,D:\Projetos\Pedidos de Venda\uDM.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 12:13:21.001,D:\Projetos\Pedidos de Venda\uDM.dfm=D:\Projetos\Pedidos de Venda\Unit1.dfm</Transaction>
+    <Transaction>2021/08/13 12:38:13.957,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 12:38:42.216,D:\Projetos\Pedidos de Venda\uCliente.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 13:08:13.149,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:00:12.146,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:00:25.401,D:\Projetos\Pedidos de Venda\uProduto.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:21:15.411,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:21:33.091,D:\Projetos\Pedidos de Venda\uPedidoG.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:40:57.447,=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:41:08.962,D:\Projetos\Pedidos de Venda\uPedidoI.pas=D:\Projetos\Pedidos de Venda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

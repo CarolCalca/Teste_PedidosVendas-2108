@@ -1,0 +1,15 @@
+Projeto criado em aproximadamente 4 horas, contando com o tempo de download e instalação dos programas necessários.
+
+Não está funcional.
+
+Peço compreensão pois ocorreram alguns problemas de falta de energia em meu bairro nessa semana, por isso não consegui alocar o tempo que gostaria para realizar o projeto, deixando assim incompleto. Mas deixo claro que entendo se isso for um problema.
+
+Agradeço se puderem mesmo assim avaliar meu conhecimento a partir dos códigos e SQLs implementados dentro deles. Podem notar também a forma como faço a análise e o planejamento do projeto, planejando como um todo e desenvolvendo a partir disso, para que ocorram menos problemas e imprevistos durante o processo de programação, economizando trabalho e tempo.
+
+Por favor, tomem nota de que meu desempenho e conhecimento são sempre maiores ao dar manutenção em sistemas, em vez de projetos novos.
+
+Agradeço desde já pela atenção e interesse, e espero que possamos continuar o contato!
+
+Atenciosamente, 
+
+Caroline.
